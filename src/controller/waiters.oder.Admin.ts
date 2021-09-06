@@ -7,7 +7,7 @@ import { DeletewaiterReqOder, GetwaiterReqOder, SaveReqgetmenuidORsaveOder, Save
 import { menuadmindoc } from '../types/document/menu';
 import { SaveUpdateResmenu } from '../types/Responses/menu.responses';
 import { Menurepositories } from '../repositories/menu.repositories';
-import { Getmenu } from '../types/request/menu.request';
+import { Getmenu } from '../types/Request/menu.request';
 
 
 @Route('waiter')
